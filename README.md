@@ -5,4 +5,4 @@
 <hr/>
 <img src="https://github.com/YonPalac1/Formularios_JS/blob/master/img.png">
  
-<img src="https://github.com/YonPalac1/Formularios_JS/blob/master/img2.png">
+<img src="https://github.com/YonPalac1/Formularios_JS/blob/master/img2.png"> 
